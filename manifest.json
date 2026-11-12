@@ -1,11 +1,11 @@
 {
-    "name": "health_companion",
-    "short_name": "health_companion",
+    "name": "BeFit",
+    "short_name": "BeFit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "BeFit, a companion app for the Fitbit Air.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
